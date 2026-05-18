@@ -3,7 +3,7 @@
 > Detect signs of injury and instability early all through the phone in your pocket
 
 ---
-![Demo](./temp/demo.jpeg)
+![Demo](demo.jpeg)
 ## Results
 
 ### Model Performance (Observed Data — Hold-Out Test Set)
