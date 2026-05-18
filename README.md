@@ -1,6 +1,8 @@
 # HARper - 🏆 2nd Place Overall @ DataQuest '26
 
-> Detect signs of injury and instability early all through the phone in your pocket
+Detect signs of injury and instability early all through the phone in your pocket
+
+Injuries suck. And a lot of them are preventable with early intervention. You almost always carry a phone with you, it would be great if it could prevent you from future pain. HARper aims to solve with real-time inference capabilities to detect early signs of injury/fatigue.
 
 ---
 ![Demo](demo.jpeg)
